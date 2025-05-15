@@ -1,2 +1,3 @@
 # miTrabajo
-este es un repositorio de prueba para mi
+soy orlando zelada
+este proyecto es solo una prueba para aprender de un repositorio
